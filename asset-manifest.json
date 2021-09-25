@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React_basics_bootstrap/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React_basics_bootstrap/static/js/main.0c21bea0.chunk.js",
+    "main.js.map": "/React_basics_bootstrap/static/js/main.0c21bea0.chunk.js.map",
+    "runtime-main.js": "/React_basics_bootstrap/static/js/runtime-main.49b36a2b.js",
+    "runtime-main.js.map": "/React_basics_bootstrap/static/js/runtime-main.49b36a2b.js.map",
+    "static/css/2.339604fe.chunk.css": "/React_basics_bootstrap/static/css/2.339604fe.chunk.css",
+    "static/js/2.62fc05e2.chunk.js": "/React_basics_bootstrap/static/js/2.62fc05e2.chunk.js",
+    "static/js/2.62fc05e2.chunk.js.map": "/React_basics_bootstrap/static/js/2.62fc05e2.chunk.js.map",
+    "static/js/3.ea0a1368.chunk.js": "/React_basics_bootstrap/static/js/3.ea0a1368.chunk.js",
+    "static/js/3.ea0a1368.chunk.js.map": "/React_basics_bootstrap/static/js/3.ea0a1368.chunk.js.map",
+    "index.html": "/React_basics_bootstrap/index.html",
+    "static/css/2.339604fe.chunk.css.map": "/React_basics_bootstrap/static/css/2.339604fe.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React_basics_bootstrap/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.62fc05e2.chunk.js.LICENSE.txt": "/React_basics_bootstrap/static/js/2.62fc05e2.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/React_basics_bootstrap/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/React_basics_bootstrap/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49b36a2b.js",
+    "static/css/2.339604fe.chunk.css",
+    "static/js/2.62fc05e2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0c21bea0.chunk.js"
+  ]
+}
